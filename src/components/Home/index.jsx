@@ -1,11 +1,11 @@
+
 import { Categorias } from "../Categorias"
 import { Header } from "../Header"
 
 const Home = () => {
-    return (
+        return (
         <>
             <Header/>
-            
             <Categorias/>
         </>
     )

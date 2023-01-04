@@ -16,7 +16,7 @@
         "Descrpcion":"Rosca:1/2' ISO:12.5",
         "Precio":18.07
     },{
-        "nombre":"Acople Rapido PNH 1/2' NPT Imp Tipo 'A' (Ch)",
+        "nombre":"Acople Rapido PNH 1/4' NPT Imp Tipo 'A' (Ch)",
         "Codigo":"LSQ-S1-02PF",
         "Categoria":"Acople",
         "Subcategoria":"Perno",
@@ -24,7 +24,7 @@
         "Descrpcion":"Rosca 1/4' ISO:6.3",
         "Precio":4.91
     },{
-        "nombre":"Acople Rapido PNH 1/2' NPT Imp Tipo 'B' (Gr)",
+        "nombre":"Acople Rapido PNH 1/4' NPT Imp Tipo 'B' (Gr)",
         "Codigo":"LSQ-S2-02PF",
         "Categoria":"Acople",
         "Subcategoria":"Perno",
@@ -32,7 +32,7 @@
         "Descrpcion":"Rosca 1/4' ISO:6.3",
         "Precio":4.91
     },{
-        "nombre":"Acople Rapido PCH 1/2' NPT Imp Tipo 'A' (Ch)",
+        "nombre":"Acople Rapido PCH 1/4' NPT Imp Tipo 'A' (Ch)",
         "Codigo":"LSQ-S1-02SF",
         "Categoria":"Acople",
         "Subcategoria":"Perno",
@@ -40,7 +40,7 @@
         "Descrpcion":"Rosca 1/4' ISO:6.3",
         "Precio":10.47      
     },{
-        "nombre":"Acople Rapido PCH 1/2' NPT Imp Tipo 'B' (Gr)",
+        "nombre":"Acople Rapido PCH 1/4' NPT Imp Tipo 'B' (Gr)",
         "Codigo":"LSQ-S2-02SF",
         "Categoria":"Acople",
         "Subcategoria":"Perno",
