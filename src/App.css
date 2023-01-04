@@ -106,3 +106,45 @@ img{
 .Category:hover{
   background-color: rgb(255, 255, 255);
 }
+
+.container{
+  background-color: #fff;
+}
+
+.nameprod{
+  font-size: 20px;
+  font-weight: 900;
+  width: 700px;
+}
+.codprod{
+  font-size: 20px;
+  font-weight: 200;
+  width: 300px;
+}
+.modprod{
+  font-size: 20px;
+  font-weight: 200;
+  width: 200px;
+}
+.priceprod{
+  font-size: 20px;
+  font-weight: 200;
+  width: 150px;
+}
+.infoprod{
+  font-size: 16px;
+  font-weight: 100;
+  opacity: 70%;
+}
+.ItemDiv{
+  background-color: rgb(221, 218, 218);
+  border-radius: 20px;
+  padding: 10px 25px 0px 25px;
+}
+
+.flexDataItem1{
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 40px;
+  justify-content: space-between;
+}
